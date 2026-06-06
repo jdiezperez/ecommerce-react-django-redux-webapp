@@ -154,3 +154,17 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📝 License
 This project is open source and available under the [MIT License](LICENSE).
+
+## Screenshots
+
+Home
+![Home](_images/solarshop_01.png)
+
+Product Detail
+![Product Detail](_images/solarshop_02.png)
+
+Cart
+![Cart](_images/solarshop_03.png)
+
+Product Management
+![Product Management](_images/solarshop_04.png)
