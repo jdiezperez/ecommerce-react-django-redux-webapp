@@ -158,13 +158,17 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Screenshots
 
 Home
-![Home](backend/_images/solarshop_01.png)
+
+<img src="backend/_images/solarshop_01.png" alt="Home" width="800">
 
 Product Detail
-![Product Detail](backend/_images/solarshop_02.png)
+
+<img src="backend/_images/solarshop_02.png" alt="Product Detail" width="800">
 
 Cart
-![Cart](backend/_images/solarshop_03.png)
+
+<img src="backend/_images/solarshop_03.png" alt="Cart" width="800">
 
 Product Management
-![Product Management](backend/_images/solarshop_04.png)
+
+<img src="backend/_images/solarshop_04.png" alt="Product Management" width="800">
