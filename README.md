@@ -158,13 +158,13 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Screenshots
 
 Home
-![Home](_images/solarshop_01.png)
+![Home](backend/_images/solarshop_01.png)
 
 Product Detail
-![Product Detail](_images/solarshop_02.png)
+![Product Detail](backend/_images/solarshop_02.png)
 
 Cart
-![Cart](_images/solarshop_03.png)
+![Cart](backend/_images/solarshop_03.png)
 
 Product Management
-![Product Management](_images/solarshop_04.png)
+![Product Management](backend/_images/solarshop_04.png)
